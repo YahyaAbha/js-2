@@ -100,11 +100,19 @@
 // document.write("<br>The circumference is: "  ,2*π*circleRadius);
 // document.write("<br>The area is: "  ,π*circleRadius**2);
 
+// document.write("The lifetime Supply Calculator<br>");
 
+// let snack = "chocolate chip";
+// let currentAge = 15;
+// let maximumAge = 65;
+// let amount = 3;
 
+// document.write("Favourite Snack: ", snack,"<br>");
+// document.write("Current age: ",currentAge,"<br>");
+// document.write("Estimated Maximum Age:",maximumAge,"<br>");
+// document.write("Amount of snacks per day",amount,"<br>");
 
-
-// console.log("sdjfhsdjf")
+// document.write("You will need ", 3*365*(65-15), " chocolate chip to last you until the ripe old age of ", maximumAge);
 
 
 
